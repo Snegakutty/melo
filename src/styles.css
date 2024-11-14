@@ -1,0 +1,28 @@
+/* src/styles.css */
+
+.app {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .choose-singer, .emotion-detect {
+    margin: 20px;
+  }
+  
+  input {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 10px;
+    font-size: 16px;
+    margin-left: 10px;
+  }
+  
+  .song-recommendation {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
